@@ -1,0 +1,4 @@
+An abstract class with one abstract method(a method without implementation)
+The abstract method is implemented in the class Honda
+An object of class Honda is instantiated in the Main class.
+Note that the abstract class Bike cannot be instantiated
